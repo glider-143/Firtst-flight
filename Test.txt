@@ -1,2 +1,8 @@
-12345
-hello world
+/*Push*/
+git add /*   文件名*/
+git commit -m "注释"
+git push origin master/*主线*/
+
+/*Pull*/
+git pull origin master/*主线*/
+
